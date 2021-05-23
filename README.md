@@ -4,7 +4,7 @@ Meu nome é Edson de Andrade Barros, atualmente estudo na Fatec Zona Sul, cursan
 
 Para mais informações, você pode acessar: 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edson-de-andrade-barros-1877b917b/)](https://www.linkedin.com/in/edson-de-andrade-barros-1877b917b/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edsonabarros)](https://www.linkedin.com/in/edsonabarros)
 
 Ou
 
