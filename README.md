@@ -1,6 +1,7 @@
 Olá! 
 
-Meu nome é Edson de Andrade Barros, atualmente estudo na Fatec Zona Sul, cursando Análise e Desenvolvimento de Sistemas! Sou estudante de tecnologia desde 2016, amante de Linux e com estudos atualmente focados em desenvolvimento web. 
+Atualmente estou estudando ADS na Fatec Zona Sul (SP), sou fã de tencologia e gosto de estudar sempre que posso. 
+Caso tenha alguma dúvida sobre um projeto, não deixe de perguntar! 
 
 Para mais informações, acesse: 
 
