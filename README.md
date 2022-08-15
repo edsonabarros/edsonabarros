@@ -25,7 +25,7 @@
 
 ##
 
-Sou estudande de tecnologia e estou no caminha para me tornar um grande DEV!<br> 
+Sou estudande de tecnologia e estou no caminho para me tornar um grande DEV!<br> 
 Atualmente estou estudando Spring Boot (back-end) e Bootstrap (front-end)!
 
 
