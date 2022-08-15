@@ -1,6 +1,6 @@
 <h2>Olá! 🖖 Eu me chamo Edson!</h2> 
 
-<div align="center">
+<div align="center" style="display: inline_block>
   <a href="https://github.com/edsonabarros">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=edsonabarros&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonabarros&layout=compact&langs_count=7&theme=onedark"/>
