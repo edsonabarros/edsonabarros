@@ -1,18 +1,20 @@
 <h2>Olá! 🖖 Eu me chamo Edson!</h2> 
 
-<div style="display: inline_block>
+<div align="center">
+<div style="display: inline_block">
   <a href="https://github.com/edsonabarros">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=edsonabarros&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonabarros&layout=compact&langs_count=7&theme=onedark"/>
+</div>
 </div>
 
 ##
 
 </div>
 <h3>Linguagens e tecnologias: </h3>
-<div style="display: inline_block>
+<div style="display: inline_block">
 <br>
-  <img align="center" alt="Edson-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+
 <img align="center" alt="Edson-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align="center" alt="Edson-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 <img align="center" alt="Edson-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
