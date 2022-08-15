@@ -28,9 +28,5 @@
 Sou estudande de tecnologia e estou no caminha para me tornar um grande DEV!<br> 
 Atualmente estou estudando Spring Boot (back-end) e Bootstrap (front-end)!
 
-<h4>Entre em contato:</h4>
-<div style="display: inline_block>
-<a href="https://www.linkedin.com/in/edsonabarros/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
 
