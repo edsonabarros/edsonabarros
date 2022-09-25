@@ -3,10 +3,10 @@
 <div align="center">
 
 <div style="display: inline_block">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/edsonabarros/github-readme-stats">
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=edsonabarros&show_icons=true&theme=radical&include_all_commits=true"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/edsonabarros/convoychat">
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonabarros&layout=compact&theme=radical"/>
 </a>
 </div>
