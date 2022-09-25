@@ -3,8 +3,12 @@
 <div align="center">
 
 <div style="display: inline_block">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsonabarros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonabarros&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/edsonabarros/github-readme-stats">
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=edsonabarros&show_icons=true&theme=radical&include_all_commits=true"/>
+</a>
+<a href="https://github.com/edsonabarros/convoychat">
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonabarros&layout=compact&theme=radical"/>
+</a>
 </div>
 </div>
 
@@ -25,8 +29,17 @@
 
 ##
 
-Sou estudande de tecnologia e estou no caminho para me tornar um grande DEV!<br> 
-Atualmente estou estudando Spring Boot (back-end) e Bootstrap (front-end)!
+<h3> Contato </h3>
+ <a href = "mailto:edsonabarros01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/edsonabarros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+##
+
+<h3>Foco atual</h3>
+<p>Estou estudando Java (Spring) para back-end e melhorando minhas habilidades em CSS e Javascript antes de iniciar com um framework front-end.</p>
+
+##
+
+<h4>A Web é para todos!</h4>
 
 
