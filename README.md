@@ -31,11 +31,6 @@
 
 ##
 
-<h3>Foco atual</h3>
-<p>Estou estudando Java (Spring) para back-end e melhorando minhas habilidades em CSS e Javascript antes de iniciar com um framework front-end.</p>
-
-##
-
 <h4>A Web é para todos!</h4>
 
 
